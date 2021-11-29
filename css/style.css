@@ -1247,6 +1247,7 @@ body.ie ._ibg img {
     height: 100%;
     background-color: #777777;
     z-index: 4;
+    overflow-y: scroll;
   }
 }
 
@@ -8048,6 +8049,7 @@ body.ie ._ibg img {
 
 .item-question__text {
   display: none;
+  padding-top: 20px;
 }
 
 .news {
